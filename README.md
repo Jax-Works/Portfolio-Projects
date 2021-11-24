@@ -1,4 +1,4 @@
-# Portfolio-Projects
+# Portfolio Projects
 
 Welcome to my Portfolio Project repository. This is where I display some of my codes I've developed.
 
