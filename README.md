@@ -17,3 +17,7 @@ Data exploration with SQL on information regarding Covid-19 deaths and vaccinati
 # Nashville Project
 
 Data cleaning with SQL on the Nashville Housing Dataset which gives information such as sale prices and types of housing in the city.
+
+# Market Research Project
+
+Data cleaning with Python and accompanying report for related analyses and visualization regarding a sample data of a treadmill retailer. Done using Jupyter Notebook.
