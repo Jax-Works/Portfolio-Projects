@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<suppliers>
+<Address>9-8 Sekimai Musashino-shi</Address>
+<City>Tokyo</City>
+<CompanyName>Nitsuchiba</CompanyName>
+<ContactName>James Sushi</ContactName>
+<Country>Japan</Country>
+<Fax>(03) 3555-5002</Fax>
+<Phone>(03) 3555-5000</Phone>
+<PostalCode>100</PostalCode>
+<SupplierID>4</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>22, rue H. Voiron</Address>
+<City>Montceau</City>
+<CompanyName>Gal Export</CompanyName>
+<ContactName>Mark Desailly</ContactName>
+<Country>France</Country>
+<Fax>85.57.00.50</Fax>
+<Phone>85.57.00.57</Phone>
+<PostalCode>71300</PostalCode>
+<SupplierID>27</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>29 King&apos;s Way</Address>
+<City>Manchester</City>
+<CompanyName>Hot Pants</CompanyName>
+<ContactName>David Leg</ContactName>
+<Country>UK</Country>
+<Fax>(161) 555-4911</Fax>
+<Phone>(161) 555-4909</Phone>
+<PostalCode>M14 GSD</PostalCode>
+<SupplierID>8</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>49 Gilbert St.</Address>
+<City>London</City>
+<CompanyName>Sunny Clothes</CompanyName>
+<ContactName>Peter Shulton</ContactName>
+<Country>UK</Country>
+<Fax>(171) 555-2331</Fax>
+<Phone>(171) 555-2333</Phone>
+<PostalCode>EC1 4SD</PostalCode>
+<SupplierID>1</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>74 Rose St. Moonie Ponds</Address>
+<City>Melbourne</City>
+<CompanyName>New Balls</CompanyName>
+<ContactName>Pete Cash</ContactName>
+<Country>Australia</Country>
+<Fax>(03) 444-6588</Fax>
+<Phone>(03) 444-2398</Phone>
+<PostalCode>3058</PostalCode>
+<SupplierID>7</SupplierID>
+<SupplierBandID>3</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>92 Setsuko Chuo-ku</Address>
+<City>Osaka</City>
+<CompanyName>SatSUMAs</CompanyName>
+<ContactName>Hirosho Tayota</ContactName>
+<Country>Japan</Country>
+<Fax>(06) 431-5566</Fax>
+<Phone>(06) 431-5555</Phone>
+<PostalCode>545</PostalCode>
+<SupplierID>6</SupplierID>
+<SupplierBandID>4</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>148 rue Chasseur</Address>
+<City>Ste-Hyacinthe</City>
+<CompanyName>Fast Runners</CompanyName>
+<ContactName>Ben Johanson</ContactName>
+<Country>Canada</Country>
+<Fax>(514) 555-2931</Fax>
+<Phone>(514) 555-2929</Phone>
+<PostalCode>J2S 7S8</PostalCode>
+<SupplierID>29</SupplierID>
+<SupplierBandID>2</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>170 Prince Edward Parade Hunter&apos;s Hill</Address>
+<City>Sydney</City>
+<CompanyName>Cangaroo Shoes</CompanyName>
+<ContactName>Chris Dundee</ContactName>
+<Country>Australia</Country>
+<Fax>(02) 555-4875</Fax>
+<Phone>(02) 555-5959</Phone>
+<PostalCode>2042</PostalCode>
+<SupplierID>24</SupplierID>
+<SupplierBandID>3</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>203, Rue des Francs-Bourgeois</Address>
+<City>Paris</City>
+<CompanyName>Like Paradis</CompanyName>
+<ContactName>Naomi Paradis</ContactName>
+<Country>France</Country>
+<Fax>(1) 03.83.00.88</Fax>
+<Phone>(1) 03.83.00.69</Phone>
+<PostalCode>75004</PostalCode>
+<SupplierID>18</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>471 Serangoon Loop, Suite #402</Address>
+<City>Singapore</City>
+<CompanyName>Asin Fashion Ltd Co</CompanyName>
+<ContactName>Li Chi Mi</ContactName>
+<Country>Singapore</Country>
+<Fax>555-8790</Fax>
+<Phone>555-8789</Phone>
+<PostalCode>512</PostalCode>
+<SupplierID>20</SupplierID>
+<SupplierBandID>4</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>707 Oxford Rd.</Address>
+<City>Ann Arbor</City>
+<CompanyName>Dressed for Succes</CompanyName>
+<ContactName>Glenn Muller</ContactName>
+<Country>USA</Country>
+<Fax>(313) 555-3349</Fax>
+<Phone>(313) 555-5745</Phone>
+<PostalCode>48104</PostalCode>
+<SupplierID>3</SupplierID>
+<SupplierBandID>2</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>2960 Rue St. Laurent</Address>
+<City>MontrÃ©al</City>
+<CompanyName>Mountain International</CompanyName>
+<ContactName>Clare Dion</ContactName>
+<Country>Canada</Country>
+<Fax>(514) 555-9000</Fax>
+<Phone>(514) 555-9090</Phone>
+<PostalCode>H1J 1C3</PostalCode>
+<SupplierID>25</SupplierID>
+<SupplierBandID>2</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>3400 - 8th Avenue Suite 210</Address>
+<City>Bend</City>
+<CompanyName>Smooth Clothes</CompanyName>
+<ContactName>Pamela Anders</ContactName>
+<Country>USA</Country>
+<Fax>(503) 555-93473</Fax>
+<Phone>(503) 555-93472</Phone>
+<PostalCode>97101</PostalCode>
+<SupplierID>16</SupplierID>
+<SupplierBandID>2</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Av. das Americanas 12.890</Address>
+<City>Sao Paulo</City>
+<CompanyName>Samba</CompanyName>
+<ContactName>Ronnie Ronaldinho</ContactName>
+<Country>Brazil</Country>
+<Fax>(11) 555 2388</Fax>
+<Phone>(11) 555 2364</Phone>
+<PostalCode>5442</PostalCode>
+<SupplierID>10</SupplierID>
+<SupplierBandID>2</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Bat. B 3, rue des Alpes</Address>
+<City>Annecy</City>
+<CompanyName>FrisersAfrong</CompanyName>
+<ContactName>Yannik Munz</ContactName>
+<Country>France</Country>
+<Fax>38.76.98.85</Fax>
+<Phone>38.76.98.89</Phone>
+<PostalCode>74000</PostalCode>
+<SupplierID>28</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Bogenallee 51</Address>
+<City>Frankfurt</City>
+<CompanyName>Austerlich</CompanyName>
+<ContactName>Fran Heinz</ContactName>
+<Country>Germany</Country>
+<Fax>(069) 9945688</Fax>
+<Phone>(069) 9945679</Phone>
+<PostalCode>60439</PostalCode>
+<SupplierID>12</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>BrovallavÃ¤gen 231</Address>
+<City>Stockholm</City>
+<CompanyName>ABC</CompanyName>
+<ContactName>Anna Brooks</ContactName>
+<Country>Sweden</Country>
+<Fax>08-123 33 75</Fax>
+<Phone>08-123 33 65</Phone>
+<PostalCode>S-123 45</PostalCode>
+<SupplierID>17</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Calle del Rosal 4</Address>
+<City>Oviedo</City>
+<CompanyName>Los Hombres Machos</CompanyName>
+<ContactName>Antonio Bandito</ContactName>
+<Country>Spain</Country>
+<Fax>(98) 598 77 55</Fax>
+<Phone>(98) 598 67 54</Phone>
+<PostalCode>33007</PostalCode>
+<SupplierID>5</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Frahmredder 112a</Address>
+<City>Cuxhaven</City>
+<CompanyName>Executive Clothing GMBH</CompanyName>
+<ContactName>Mark Daniels</ContactName>
+<Country>Germany</Country>
+<Fax>(04721) 8756</Fax>
+<Phone>(04721) 2356</Phone>
+<PostalCode>27478</PostalCode>
+<SupplierID>13</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Hatlevegen 5</Address>
+<City>Sandvika</City>
+<CompanyName>Bar Ã…keri</CompanyName>
+<ContactName>Atle Skaga</ContactName>
+<Country>Norway</Country>
+<Fax>(0)2-987650</Fax>
+<Phone>(0)2-987653</Phone>
+<PostalCode>1320</PostalCode>
+<SupplierID>15</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Kaloadagatan 13</Address>
+<City>GÃ¶teborg</City>
+<CompanyName>Goa KlÃ¤der</CompanyName>
+<ContactName>Tomas Ravioli</ContactName>
+<Country>Sweden</Country>
+<Fax>031-987 65 91</Fax>
+<Phone>031-987 34 65</Phone>
+<PostalCode>S-345 67</PostalCode>
+<SupplierID>9</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Lyngbysild Fiskebakken 10</Address>
+<City>Lyngby</City>
+<CompanyName>Prael Ltd</CompanyName>
+<ContactName>Paul Els</ContactName>
+<Country>Denmark</Country>
+<Fax>43844190</Fax>
+<Phone>43844109</Phone>
+<PostalCode>2800</PostalCode>
+<SupplierID>21</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Order Processing Dept. 2100 Paul Revere Blvd.</Address>
+<City>Boston</City>
+<CompanyName>Mayflower</CompanyName>
+<ContactName>Ray Burke</ContactName>
+<Country>USA</Country>
+<Fax>(617) 555-3398</Fax>
+<Phone>(617) 555-3337</Phone>
+<PostalCode>2134</PostalCode>
+<SupplierID>19</SupplierID>
+<SupplierBandID>2</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>P.O. Box 78934</Address>
+<City>New Orleans</City>
+<CompanyName>Big L</CompanyName>
+<ContactName>John Brown</ContactName>
+<Country>USA</Country>
+<Fax>(100) 555-4944</Fax>
+<Phone>(100) 555-4844</Phone>
+<PostalCode>70117</PostalCode>
+<SupplierID>2</SupplierID>
+<SupplierBandID>2</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>TiergartenstraÃŸe 5</Address>
+<City>Berlin</City>
+<CompanyName>Der Bahnhof</CompanyName>
+<ContactName>Karl Strauss</ContactName>
+<Country>Germany</Country>
+<Fax>(010) 9787655</Fax>
+<Phone>(010) 9787664</Phone>
+<PostalCode>10785</PostalCode>
+<SupplierID>11</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Valtakatu 12</Address>
+<City>Lappeenranta</City>
+<CompanyName>Nordik Koskenkorva</CompanyName>
+<ContactName>Juha Mann</ContactName>
+<Country>Finland</Country>
+<Fax>(953) 11111</Fax>
+<Phone>(953) 10999</Phone>
+<PostalCode>53120</PostalCode>
+<SupplierID>23</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Verkoop Rijnweg 22</Address>
+<City>Zaandam</City>
+<CompanyName>Niemegen Boots</CompanyName>
+<ContactName>George van Persie</ContactName>
+<Country>Netherlands</Country>
+<Fax>(12345) 1211</Fax>
+<Phone>(12345) 1213</Phone>
+<PostalCode>9999 ZZ</PostalCode>
+<SupplierID>22</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Via dei Gelsomini, 153</Address>
+<City>Salerno</City>
+<CompanyName>Pirilli Company</CompanyName>
+<ContactName>Albert Tombs</ContactName>
+<Country>Italy</Country>
+<Fax>(089) 6547777</Fax>
+<Phone>(089) 6547666</Phone>
+<PostalCode>84100</PostalCode>
+<SupplierID>26</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<suppliers>
+<Address>Viale Dante, 75</Address>
+<City>Ravenna</City>
+<CompanyName>Ravenna Fashion</CompanyName>
+<ContactName>Paul Rossi</ContactName>
+<Country>Italy</Country>
+<Fax>(0544) 60611</Fax>
+<Phone>(0544) 6111</Phone>
+<PostalCode>48100</PostalCode>
+<SupplierID>14</SupplierID>
+<SupplierBandID>1</SupplierBandID>
+</suppliers>
+<supplier_band>
+<SupplierBandID>1</SupplierBandID>
+<SupplierBand>Band A</SupplierBand>
+</supplier_band>
+<supplier_band>
+<SupplierBandID>2</SupplierBandID>
+<SupplierBand>Band B</SupplierBand>
+</supplier_band>
+<supplier_band>
+<SupplierBandID>3</SupplierBandID>
+<SupplierBand>Band C</SupplierBand>
+</supplier_band>
+<supplier_band>
+<SupplierBandID>4</SupplierBandID>
+<SupplierBand>Band D</SupplierBand>
+</supplier_band>
+</root>
