@@ -2,9 +2,13 @@
 
 Welcome to my Portfolio Project repository. This is where I display some of my codes I've developed.
 
-Data visualization for these outputs can be found at my Tableau Public Profile.
+Data visualization for these outputs can be found at my Tableau Public Profile if not in Power BI files in the folder.
 
 Tableau Profile: https://public.tableau.com/app/profile/jianxing#!/
+
+# E-Commerce Project
+
+Data cleaning and accompanying report for related analyses regarding an e-commerce company using solely Power BI.
 
 # Online Retailer Project
 
